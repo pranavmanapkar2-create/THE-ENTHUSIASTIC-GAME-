@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=2]
+
+[node name="Main" type="Node2D"]
+[node name="Car" type="Node2D" parent="."]
+[node name="Ground" type="ColorRect" parent="."]
+color = Color(0.2, 0.6, 0.2)
+rect_min_size = Vector2(1024, 600)
