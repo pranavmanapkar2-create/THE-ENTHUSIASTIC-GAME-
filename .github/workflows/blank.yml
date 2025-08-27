@@ -35,4 +35,3 @@ jobs:
         with:
           name: game
           path: build/game.apk
-          
